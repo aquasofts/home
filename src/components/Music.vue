@@ -12,12 +12,10 @@
     </div>
     <div class="control">
       <go-start theme="filled" size="30" fill="#efefef" @click="changeMusicIndex(0)" />
-      <Transition name="fade" mode="out-in">
-        <div :key="store.playerState" class="state" @click="changePlayState">
-          <play-one theme="filled" size="50" fill="#efefef" v-show="!store.playerState" />
-          <pause theme="filled" size="50" fill="#efefef" v-show="store.playerState" />
-        </div>
-      </Transition>
+      <div class="state" @click="changePlayState">
+        <play-one theme="filled" size="50" fill="#efefef" v-show="!store.playerState" />
+        <pause theme="filled" size="50" fill="#efefef" v-show="store.playerState" />
+      </div>
       <go-end theme="filled" size="30" fill="#efefef" @click="changeMusicIndex(1)" />
     </div>
     <div class="menu">
@@ -122,7 +120,7 @@ onMounted(() => {
   // 空格键事件
   window.addEventListener("keydown", (e) => {
     if (!store.musicIsOk) {
-      return;
+      return ;
     }
     if (e.code == "Space") {
       changePlayState();
@@ -179,7 +177,6 @@ watch(
     justify-content: space-evenly;
     width: 100%;
     .state {
-      transition: opacity 0.1s;
       .i-icon {
         width: 50px;
         height: 50px;
