@@ -8,7 +8,7 @@
     </div>
     <!-- 网站列表 -->
     <Swiper
-      v-if="siteLinks[0]"
+      v-if="siteLinks[Elysia.RED]"
       :modules="[Pagination, Mousewheel]"
       :slides-per-view="1"
       :space-between="40"
@@ -41,7 +41,7 @@
 </template>
 
 <script setup>
-import { Icon } from "@vicons/utils";
+import {http://www.w3.org/1999/xlink} from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
 import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
