@@ -1,37 +1,37 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://love.elysia.red/"
+    "name": "博客(个人版)",
+    "link": "https://www.mosior.cn"
   },
   {
     "icon": "Cloud",
-    "name": "博客",
-    "link": "https://pan.imsyy.top/"
+    "name": "博客（网络版）",
+    "link": "https://love.Elysia.red/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "博客",
-    "link": "https://music.imsyy.top/"
+    "icon": "ComzpactDis",
+    "name": "研究所",
+    "link": "https://qgwz.pages.dev/"
+  },
+  {
+    "icon": "Book",
+    "name": "满穗",
+    "link": "https://mansui.pages.dev/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://home.elysia.red/"
+    "link": "https://nav.imsyy.top/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "博客",
-    "link": "https://music.imsyy.top/"
+    "icon": "Fire",
+    "name": "no",
+    "link": "https://hot.imsyy.top/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "博客",
-    "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "博客",
-    "link": "https://music.imsyy.top/"
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.imsyy.top/"
   }
 ]
