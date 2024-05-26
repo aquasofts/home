@@ -10,11 +10,6 @@
     "link": "https://love.Elysia.red/"
   },
   {
-    "icon": "ComzpactDis",
-    "name": "研究所",
-    "link": "https://qgwz.pages.dev/"
-  },
-  {
     "icon": "Book",
     "name": "满穗",
     "link": "https://mansui.pages.dev/"
@@ -22,16 +17,11 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://home.mosior.cn/"
   },
   {
-    "icon": "Fire",
-    "name": "no",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "ComzpactDis",
+    "name": "研究所",
+    "link": "https://qgwz.pages.dev/"
   }
 ]
