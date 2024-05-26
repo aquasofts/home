@@ -97,7 +97,7 @@ const siteName = import.meta.env.VITE_SITE_NAME;
     top: 0;
     width: 51%;
     height: 100%;
-    background: #ccbcbc;
+    background: #c7c7c7;
     z-index: 1;
     &.section-left {
       left: 0;
