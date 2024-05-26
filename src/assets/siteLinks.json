@@ -5,11 +5,6 @@
     "link": "https://www.mosior.cn"
   },
   {
-    "icon": "Blog",
-    "name": "博客(绘梦)",
-    "link": "https://love.Elysia.red/"
-  },
-  {
     "icon": "Book",
     "name": "满穗",
     "link": "https://mansui.pages.dev/"
@@ -17,11 +12,6 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://home.mosior.cn/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "研究所",
-    "link": "https://qgwz.pages.dev/"
+    "link": "https://mosior.com/"
   }
 ]
