@@ -47,7 +47,7 @@ const siteName = import.meta.env.VITE_SITE_NAME;
       height: 150px;
       border-radius: 50%;
       border: 3px solid transparent;
-      border-top-color: #fff;
+      border-top-color: #d418ce;
       animation: spin 1.8s linear infinite;
       z-index: 2;
 
@@ -73,7 +73,7 @@ const siteName = import.meta.env.VITE_SITE_NAME;
         bottom: 15px;
         border-radius: 50%;
         border: 3px solid transparent;
-        border-top-color: #d418ce;
+        border-top-color: #d3d3d3;
         animation: spin 1s linear infinite;
       }
     }
@@ -81,7 +81,7 @@ const siteName = import.meta.env.VITE_SITE_NAME;
       display: flex;
       flex-direction: column;
       align-items: center;
-      color: #fff;
+      color: #d418ce;
       z-index: 2;
       margin-top: 40px;
       font-size: 24px;
