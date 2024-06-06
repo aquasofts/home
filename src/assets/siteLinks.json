@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客(Mosior)",
-    "link": "https://www.mosior.cn"
+    "link": "https://www.mosior.com/"
   },
   {
     "icon": "Blog",
@@ -18,5 +18,10 @@
     "icon": "Compass",
     "name": "起始页",
     "link": "https://mosior.com/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "高考倒计时",
+    "link": "https://www.mihoyoo.top/"
   }
 ]
