@@ -18,6 +18,12 @@
     "url": "https://res.abeim.cn/api/qq/?qq=599131661"
   },
   {
+    "name": "Telegram",
+    "icon": "/images/icon/Telegram.png",
+    "tip": "找我玩吧",
+    "url": "https://t.me/Dreams_Painter"
+  },
+  {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
